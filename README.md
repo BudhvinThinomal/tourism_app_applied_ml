@@ -42,3 +42,7 @@
 
 ###### streamlit run app.py
 
+
+###### GitHub Link: https://github.com/BudhvinThinomal/tourism_app_applied_ml
+###### Hosted URL: https://srilankatourismanalyzer.streamlit.app/
+
