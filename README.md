@@ -1,29 +1,44 @@
-# =============================================================================
+###### =============================================================================
 
-# Installation Instructions
+###### Installation Instructions
 
-# =============================================================================
+=============================================================================
 
-# 1. Install requirements:
+---
 
-# pip install -r requirements.txt
+###### 1\. Create virtual environment:
 
-#
+###### &nbsp;  python -m venv venv
 
-# 3. Run the pipeline:
+###### &nbsp;  source venv/bin/activate  # Linux/Mac
 
-# cd src
+###### &nbsp;  venv\\Scripts\\activate     # Windows
 
-# python data_preprocessing.py
 
-# python model_training.py
 
-# python explainability.py
 
-#
 
-# 4. Launch the web app:
+###### 1\. Install requirements:
 
-# cd ..
+###### pip install -r requirements.txt
 
-# streamlit run app.py
+###### 
+
+###### 3\. Run the pipeline:
+
+###### cd src
+
+###### python data\_preprocessing.py
+
+###### python model\_training.py
+
+###### python explainability.py
+
+###### 
+
+###### 4\. Launch the web app:
+
+###### cd ..
+
+###### streamlit run app.py
+
