@@ -11,7 +11,7 @@ import plotly.graph_objects as go
 # =============================================================================
 
 st.set_page_config(
-    page_title="Sri Lanka Tourism Analyzer",
+    page_title="Srii Lanka Tourism Analyzer",
     page_icon="🏝️",
     layout="wide",
     initial_sidebar_state="expanded"
